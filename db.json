@@ -1,0 +1,70 @@
+{
+  "customers": [
+    {
+      "_id": "5be081e26ed80e50831a2136",
+      "name": "Burks Hickman",
+      "address": "377 Kenmore Court, Dupuyer, Florida, 8510"
+    },
+    {
+      "_id": "5be081e29aba33d9dfa8c601",
+      "name": "Jillian Campos",
+      "address": "799 Caton Avenue, Suitland, District Of Columbia, 3515"
+    },
+    {
+      "_id": "5be081e2c5cbc0f09504ce04",
+      "name": "Merrill Terry",
+      "address": "648 Canton Court, Robinette, Minnesota, 9422"
+    },
+    {
+      "_id": "5be081e26c0b5b911e3f4d5e",
+      "name": "Mcfadden Murray",
+      "address": "504 Ford Street, Maplewood, Maryland, 7208"
+    },
+    {
+      "_id": "5be081e23d1014f619aa3948",
+      "name": "Gates Santos",
+      "address": "268 Concord Street, Lawrence, Massachusetts, 1587"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "username": "some comment",
+      "password": 1,
+      "role" : "sales"
+    },
+    {
+      "id": 1,
+      "username": "some comment",
+      "password": 1,
+      "role" : "sales"
+    },
+    {
+      "id": 1,
+      "username": "some comment",
+      "password": 1,
+      "role" : "sales"
+    },
+    {
+      "id": 1,
+      "username": "some comment",
+      "password": 1,
+      "role" : "sales"
+    },
+    {
+      "id": 1,
+      "username": "some comment",
+      "password": 1,
+      "role" : "sales"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+
+}
